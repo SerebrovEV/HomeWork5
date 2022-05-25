@@ -66,7 +66,7 @@ public class Main {
             }
         }
         System.out.println();
-        // task 4
+        //  task 4
         for (int i = 0; i < numbers.length; i++) {
             if (numbers[i] % 2 > 0) {
                 numbers[i] = numbers[i] + 1;
