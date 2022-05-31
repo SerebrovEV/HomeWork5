@@ -71,8 +71,6 @@ public class Main {
             if (numbers[i] % 2 > 0) {
                 numbers[i] = numbers[i] + 1;
             }
-        }
-        for (int i = 0; i < numbers.length; i++) {
             if (i < numbers.length - 1) {
                 System.out.print(numbers[i] + ", ");
             } else {
